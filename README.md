@@ -1,5 +1,3 @@
-# Proof-1
-Proyect Simulator
 <!DOCTYPE html>
 <html lang="es">
 <head>
